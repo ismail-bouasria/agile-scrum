@@ -1,5 +1,3 @@
-Je regrette, mais en tant que modèle de langage textuel, je ne suis pas capable de créer des documents ou des présentations aux formats spécifiques tels que .pdf ou .ppt. Cependant, je peux vous donner des conseils sur le contenu que vous pourriez inclure dans ces documents.
-
 ### Entretien d'embauche (.pdf) :
 
 #### Introduction :
