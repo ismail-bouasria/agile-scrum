@@ -1,3 +1,13 @@
+Le PDG d'une start-up technologique cherche à améliorer l'efficacité de l'équipe de
+développement et à optimiser la gestion de projets. Pour ce faire, il envisage d'adopter
+une méthode Agile avec Scrum afin de mieux s'adapter aux évolutions du marché et de
+favoriser une collaboration plus étroite entre les membres de l'équipe. Pour identifier le
+Scrum Master idéal, le PDG organise des entretiens avec des candidats qualifiés.
+
+Vous vous présentez, et devez le convaincre que vous êtes le bon choix. A l’aide de la
+présentation vue précédemment, montrez-lui que vous maitrisez les différents aspects
+de la méthode agile, et que votre connaissance de Scrum répond à ses besoins.
+
 ### Entretien d'embauche (.pdf) :
 
 #### Introduction :
