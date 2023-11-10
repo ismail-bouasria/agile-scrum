@@ -1,3 +1,7 @@
+Agile / Scrum
+
+Etude de cas : entretien d’embauche
+
 Le PDG d'une start-up technologique cherche à améliorer l'efficacité de l'équipe de
 développement et à optimiser la gestion de projets. Pour ce faire, il envisage d'adopter
 une méthode Agile avec Scrum afin de mieux s'adapter aux évolutions du marché et de
@@ -8,60 +12,24 @@ Vous vous présentez, et devez le convaincre que vous êtes le bon choix. A l’
 présentation vue précédemment, montrez-lui que vous maitrisez les différents aspects
 de la méthode agile, et que votre connaissance de Scrum répond à ses besoins.
 
-### Entretien d'embauche (.pdf) :
+Etude de cas : mise en pratique
+Vous avez été embauché ! A vous les clés de l’équipe de dev pour mettre en pratique ce
+que vous avez vendu durant l’entretien.
+Les rôles ayant été mis en place par le pdg, vous serez responsables des artefacts, et
+des évènements à mettre en place durant le développement.
+Commencez par réaliser le backlog de produit. Déterminez ensuite le nombre de sprint
+nécessaires. Pour chacun d’entre eux, vous rédigerez le backlog de sprint, et les
+incréments.
 
-#### Introduction :
-- Présentation rapide de votre expérience et de votre compréhension du contexte de la start-up.
-  
-#### Méthode Agile :
-1. **Principes Fondamentaux :**
-   - Expliquez les principes fondamentaux de la méthode Agile et comment ils peuvent être bénéfiques pour la start-up.
-  
-2. **Flexibilité et Adaptabilité :**
-   - Mettez en avant la capacité de l'Agile à s'adapter rapidement aux changements du marché et aux besoins des clients.
-   
-3. **Collaboration et Communication :**
-   - Insistez sur la collaboration étroite et la communication transparente au sein de l'équipe et avec les parties prenantes.
-  
-#### Framework Scrum :
-1. **Rôles Scrum :**
-   - Détaillez les rôles du Scrum Master, du Product Owner et des membres de l'équipe de développement.
 
-2. **Artefacts Scrum :**
-   - Expliquez les artefacts Scrum tels que le Backlog du Produit, le Backlog de Sprint et les Incréments.
+Rendu
 
-3. **Événements Scrum :**
-   - Mettez en avant la planification de Sprint, la revue de Sprint, la rétrospective de Sprint et les daily stand-ups.
-
-4. **Métriques et Amélioration Continue :**
-   - Mentionnez comment les métriques comme la vélocité seront utilisées pour l'amélioration continue.
-
-5. **Rôle du Scrum Master :**
-   - Soulignez votre rôle en tant que Scrum Master dans la facilitation de ces événements et l'élimination des obstacles.
-
-#### Conclusion :
-- Résumez brièvement comment votre expertise en Agile et Scrum peut améliorer l'efficacité de l'équipe et atteindre les objectifs de la start-up.
-
-### Mise en pratique (.pdf) :
-
-#### Backlog du Produit :
-- Enumérez les fonctionnalités prioritaires, avec une brève justification de chaque élément.
-
-#### Nombre de Sprints :
-- Justifiez le nombre de sprints en fonction des fonctionnalités à livrer et des délais.
-
-#### Backlogs de Sprint :
-- Décrivez les tâches spécifiques pour chaque sprint, en les liant aux éléments du backlog du produit.
-
-#### Incréments :
-- Expliquez ce que chaque sprint livrera concrètement, avec des détails sur les fonctionnalités complétées.
-
-### PowerPoints :
-
-#### Entretien d'embauche (.ppt) :
-- Utilisez des slides pour chaque point clé mentionné dans le document .pdf, avec des graphiques ou des schémas si nécessaires.
-
-#### Mise en pratique (.ppt) :
-- Créez une présentation pour l'équipe, expliquant les étapes à venir, les objectifs de chaque sprint, et comment le processus Agile sera mis en œuvre.
-
-Vous pouvez utiliser des outils de traitement de texte et de création de présentations pour mettre en forme ces informations selon vos préférences.
+entretien_embauche.pdf : document dans lequel vous mettrez les points clés de la
+méthode agile, que vous mettriez en avant durant l’entretien. Décrivez les différentes
+étapes que vous suivrez avec l’équipe.
+mise_en_pratique.pdf : document dans lequel vous listerez les backlog du produit, le
+nombre de sprint, les backlogs de sprint, et les incréments.
+entretien_embauche.ppt : powerpoint de soutenance pour votre entretien d’embauche
+mise_en_pratique.ppt : powerpoint de soutenance que vous présenterez à l’équipe, pour
+lui présenter l’organisation des semaines à venir
+Ces documents sont à mettre en ligne sur votre repos github
